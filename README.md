@@ -1,2 +1,5 @@
-# five-lines-of-code
-Implementation of software design rules from Five Lines of Code
+# Five Lines of Code
+
+Implementation of the software design rules from the book "Five Lines of Code" by Christian Clausen.
+
+This is a work in progress.
